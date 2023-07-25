@@ -1,0 +1,21 @@
+.navbar{
+    background-color: black;
+    padding: 15px 15px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+.links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.link--item{
+    text-decoration: none;
+    list-style: none;
+    color: white;
+    margin-right: 10px;
+    margin-left: 10px;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
